@@ -1,0 +1,20 @@
+-*-WORKING ON-*-
+
+
+-*-ISSUES-*-
+
+
+**INITIAL SET-UP
+
+--ADJUST GITIGNORE
+
+--BACKEND--
+-SECRET KEY (https://miniwebtool.com/django-secret-key-generator/)
+-MODELS
+-ADMIN
+-SERIALIZERS
+-VIEWS
+-URLS
+
+--FRONTEND--
+-CREATE COMPONENTS
